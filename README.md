@@ -1,3 +1,6 @@
+check it out at:  http://ppatel33.github.io/Chicago-Map/
+
+
 # Chicago-Map
 HTML, CSS, Bootstrap, JavaScript, JSON, jQuery, knockout.js, Google Maps API, Foursquare API 
 PROJECT DESCRIPTION
